@@ -1,5 +1,4 @@
 function reverseWords(str) {
-  
     var massOne = str.split(""),
         massTwo = str.split(" "),
         massTwoReverse = [],
