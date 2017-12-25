@@ -10,7 +10,6 @@ function kebabize(str) {
         } else {
             position[i] = mass[i];
         }
-
     }
 
     var result = position.join("").split("");
